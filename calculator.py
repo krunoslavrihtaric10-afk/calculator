@@ -4,6 +4,7 @@ a = int(input())
 print("Input 2. number: ")
 # Takes the 2nd number from the keyboard
 b = int(input())
+# Calculates the entered numbers
 c = a * b
 d = a / b
 e = a + b
@@ -17,4 +18,5 @@ print("Result of addition: ")
 print(e)
 print("Result of subtraction: ")
 print(f)
+
 
