@@ -1,5 +1,5 @@
 print("Input 1. number: ")
-# Takes the 1st number from keyboard 
+# Takes the 1st number from the keyboard 
 a = int(input())
 print("Input 2. number: ")
 # Takes the 2nd number from the keyboard
@@ -17,3 +17,4 @@ print("Result of addition: ")
 print(e)
 print("Result of subtraction: ")
 print(f)
+
