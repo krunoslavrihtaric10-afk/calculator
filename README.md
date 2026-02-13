@@ -1,1 +1,1 @@
-A simple and user-friendly calculator built to perform basic arithmetic operations.
+A simple calculator designed to perform basic arithmetic operations.
